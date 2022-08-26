@@ -1,2 +1,2 @@
-# odin_landingpage
+# odin-landingpage
 The Odin Project - Landingpage
